@@ -1,0 +1,185 @@
+*{
+	padding: 0px;
+	margin: 0;
+
+}
+
+body{
+	background-color: white;
+}
+
+.container{
+	width: 870px;
+	height: 1000px;
+	margin: auto;
+	font-family: sans-serif;
+	background-color: #CA7C83;
+	color: white;
+}
+
+.title{
+	text-align: center;
+	font-family: clarendon;
+	font-size: 24px;
+	position: relative;
+}
+
+.title img{
+	width: 285px;
+	height: 250px;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
+.menu{
+	width: 870px;
+	height: 40px;
+	background-color: #D9D9D9;
+	position: relative;
+}
+
+.menu ul li{
+	display: inline-block;
+	font-size : 18px;
+	color: white;
+	line-height: 50px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-left: 20px;
+	float: left;
+}
+
+.menu ul li:hover{
+	background-color: #F08080;
+	height: 40px;
+}
+
+.content .left{
+	width: 600px;
+	float: left;
+	font-family: cursive;
+	font-size: 13px;
+	margin-left: 12px;
+}
+
+.left img{
+	width: 600px;
+	height: 240px;
+	border: 1px solid black;
+
+}
+
+.left h3{
+	text-align: left;
+}
+
+.content .right{
+	width: 240px;
+	font-family: sans-serif;
+	text-align: center;
+	float: right;
+}
+
+.content h2, h4{
+	text-align: center;
+	color: black;
+}
+
+
+.right h3{
+	margin-top: 60px;
+	text-align: center;
+	color: black;
+	font-family: cursive;
+	font-size: 15px;
+	
+}
+
+.right ul li{
+	list-style: none;
+	color: white;
+	font-size: 10px;
+	text-align: justify;
+	font-family: cursive;
+	margin-left: 60px;
+}
+
+
+.right img{
+	width: 120px;
+	height: 120px;
+	border: 0.5px solid black;
+	margin-top: 5px;
+
+}
+
+.left .narasi{
+	width: 600px;
+	height: 260px;
+	background-color: #D9D9D9;
+	position: relative;
+	margin-top: 7px;
+	text-align: justify;
+	color : black;
+	font-family: cursive;
+	font-size: 13px;
+	border: 0.5px solid black;
+}
+
+.left .natta{
+	width: 600px;
+	height: 260px;
+	background-color: #D9D9D9;
+	position: relative;
+	margin-top: 7px;
+	text-align: justify;
+	color : black;
+	font-family: cursive;
+	font-size: 13px;
+	border: 0.5px solid black;
+}
+
+.narasi h3{
+	margin-left: 55px;
+	margin-top: 5px;
+}
+
+.narasi h1{
+	font-size: 13px;
+}
+
+.natta h3{
+	margin-left: 55px;
+	margin-top: 5px;
+}
+
+.natta h1{
+	font-size: 13px;
+}
+
+.narasi img{
+	width: 200px;
+	height: 200px;
+	border: 0.5px solid black;
+}
+
+.natta img{
+	width: 200px;
+	height: 200px;
+	border: 0.5px solid black;
+}
+
+.footer{
+	width: 870px;
+	margin: auto;
+	background-color: #D9D9D9;
+	height: 30px;
+}
+
+.footer h4{
+	text-align: center;
+	color: black;
+	font-family: arial;
+	line-height: 30px;
+	font-size: 13px;
+}
